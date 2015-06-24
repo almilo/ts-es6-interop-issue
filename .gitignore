@@ -1,0 +1,13 @@
+# Folders
+dist
+.idea
+node
+node_modules/
+bower_components/
+target/
+target-grunt/
+
+# Files
+*.iml
+*.log
+*.map
